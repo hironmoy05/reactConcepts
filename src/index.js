@@ -1,3 +1,5 @@
+import "./styles/index.scss";
+
 const users = {
   name: "hironmoy",
   age: 32,
