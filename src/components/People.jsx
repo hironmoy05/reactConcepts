@@ -18,7 +18,7 @@ console.log(newUsers);
 const People = () => {
   return (
     <div>
-      <h1>I'm a people</h1>
+      <h1>We're people</h1>
     </div>
   )
 }
